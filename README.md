@@ -1,4 +1,4 @@
-#Customer Exit Prediction  
+# Customer Exit Prediction  
 
 ## Overview  
 This competition focuses on predicting whether a customer of a financial institution will exit (churn) or continue their relationship with the organization. The task involves learning patterns from historical customer data that includes financial, demographic, and behavioral attributes to determine the likelihood of customer attrition.
